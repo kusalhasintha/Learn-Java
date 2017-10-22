@@ -1,3 +1,11 @@
 # Learn-Java
+```markdown
+## Introduction
+This project contains documentation and examples for basic Java & basic Object Oriented Principles (OOP).
 
-This project contains documentation and examples to basic Java ans basic Object Oriented Principles.
+## Expected Outcomes of the Project
+
+1. Learn Object Oriented Principles indepth
+2. Learn how to apply Object Oriented Principles in practical scenarios
+
+```
